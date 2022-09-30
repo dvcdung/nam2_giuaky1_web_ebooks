@@ -20,14 +20,14 @@
 </head>
 <body>
     <header>
-        <h3 style="text-transform: uppercase">human resource management</h3>
+        <h3 style="text-transform: uppercase">ebooks management</h3>
     </header>
 
     <main>
         <div class="left-side col-4">
             <ul type="none">
                 <li><a href="{{ route('staff-management.index') }}">Show List</a></li>
-                <li><a href="{{ route('staff-management.create') }}">Add a Staff</a></li>
+                <li><a href="{{ route('staff-management.create') }}">Add a ebook</a></li>
                 <li><a href="{{ route('staff-management.reset') }}">Reset Table</a></li>
             </ul>
         </div>

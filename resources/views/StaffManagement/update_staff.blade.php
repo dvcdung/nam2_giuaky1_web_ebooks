@@ -1,6 +1,6 @@
 @extends('Layouts/layout')
 
-@section('title-page', "Update Staff")
+@section('title-page', "Update Ebook")
 
 @section('link-lib')
 
