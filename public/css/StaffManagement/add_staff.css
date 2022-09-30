@@ -1,0 +1,19 @@
+.right-side > .content table {
+    border-spacing: 0;
+    box-shadow: 0 0 3px rgb(136, 136, 136);
+    width: fit-content;
+    height: fit-content;
+    margin: auto;   
+}
+td, th, tr{
+    border-spacing: 0;
+    font-size: 16px;
+}
+td.col1 {
+    background-color: rgb(79, 79, 79);
+    color: white;
+}
+.right-side > .content table td, .right-side > .content table th {
+    padding: 10px 20px;
+    border: solid 1px white;
+}
